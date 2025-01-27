@@ -1,0 +1,26 @@
+.discord-preview{
+  margin:auto;
+  width:300px;
+}
+.parameter-table{
+  width:90%;
+  margin:auto;
+  border-spacing: 0px;
+  border-collapse: separate;
+}
+.parameter-table th{
+  text-align:center;
+  padding:5px;
+
+}
+.parameter-table td{
+  text-align:left;
+  padding:5px;
+}
+.discord-widget{
+    width:228px;
+	top: 10px;
+	left: 10px;
+    height:200px;
+    overflow:auto;
+}
